@@ -8,3 +8,6 @@ Make SHAP graph for multiclass classification of LightGBM<br>
 
 # Author
 Ryosuke Kobayashi<br>
+
+# Tags
+SHAP, SHAP指標, Feature Impact in Machine Learning, 特徴量重要度, 
